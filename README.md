@@ -3,9 +3,10 @@
 
 
 Building  the ELT process and then performing analysis to get insights,
+![DBT drawio](https://github.com/user-attachments/assets/7f4c2007-e429-4f20-88d4-4fccdcaaf08d)
 
 
-![data-original](https://th.bing.com/th/id/OIP.fW_xz6J7wprbhngwgb9N9AHaFU?pid=ImgDet&rs=1)
+
 
 - The first step in this project is to extract the dataset which will be used in the coming sections, Data extraction is done by different and a lot of methods, that depends on the source of the data which can be (CSV files, Database files, Web Scraping, JSON files, and others).
 Here, in our project, I used a dataset in the form of a CSV file that is brought from Kaggle.
